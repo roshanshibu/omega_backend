@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Organic Farm Milk 1.5%",
+    "price": "2.5",
+    "shop": "Edeka",
+    "image": "milk1.png"
+  },
+  {
+    "name": "Full Cream Milk 3.5%",
+    "price": "2.7",
+    "shop": "Penny",
+    "image": "milk2.png"
+  },
+  {
+    "name": "Full Fat Harmony Milk 3%",
+    "price": "3.0",
+    "shop": "Aldi",
+    "image": "milk3.png"
+  }
+]
