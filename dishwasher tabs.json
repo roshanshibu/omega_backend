@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Somat All In 1 Tabs",
+    "price": "4.2",
+    "shop": "Edeka",
+    "image": "dishwashertabs1.png"
+  },
+  {
+    "name": "Spin Value Pack Tabs",
+    "price": "5.4",
+    "shop": "Penny",
+    "image": "dishwashertabs2.png"
+  },
+  {
+    "name": "EcoZone Classic Tabs",
+    "price": "6.2",
+    "shop": "Aldi",
+    "image": "dishwashertabs3.png"
+  }
+]
