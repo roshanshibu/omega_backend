@@ -1,8 +1,14 @@
 [
   {
+    "name": "Falcon Heavy Kitchen Rolls",
+    "price": "2.8",
+    "shop": "Aldi",
+    "image": "kitchentissue3.png"
+  },
+  {
     "name": "Relyon Super Kitchen Towel",
     "price": "3.5",
-    "shop": "Aldi",
+    "shop": "Edeka",
     "image": "kitchentissue1.png"
   },
   {
@@ -10,11 +16,5 @@
     "price": "3.6",
     "shop": "Penny",
     "image": "kitchentissue2.png"
-  },
-  {
-    "name": "Falcon Heavy Kitchen Rolls",
-    "price": "3.8",
-    "shop": "Edeka",
-    "image": "kitchentissue3.png"
   }
 ]
