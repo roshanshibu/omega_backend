@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Rita Fresh Orange Juice",
+    "price": "1.5",
+    "shop": "Aldi",
+    "image": "orangejuice1.png"
+  },
+  {
+    "name": "Rauch Tropical Orange Juice ",
+    "price": "1.8",
+    "shop": "Penny",
+    "image": "orangejuice2.png"
+  },
+  {
+    "name": "Jus Pulp Orange Juice",
+    "price": "2.4",
+    "shop": "Edeka",
+    "image": "orangejuice3.png"
+  }
+]
