@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Kellogs Corn Pops",
+    "price": "3.7",
+    "shop": "Aldi",
+    "image": "cereal1.png"
+  },
+  {
+    "name": "Nestle Crunchy Nut",
+    "price": "3.9",
+    "shop": "Penny",
+    "image": "cereal2.png"
+  },
+  {
+    "name": "Kellogs Fruit Loops",
+    "price": "4.2",
+    "shop": "Edeka",
+    "image": "cereal3.png"
+  }
+]
