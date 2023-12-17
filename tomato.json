@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Rote Tomaten Auswahl",
+    "price": "2.8",
+    "shop": "Penny",
+    "image": "tomato1.png"
+  },
+  {
+    "name": "Frische Tomaten Genuss",
+    "price": "3.2",
+    "shop": "Aldi",
+    "image": "tomato2.png"
+  },
+  {
+    "name": "Edle Tomaten Kreation",
+    "price": "3.5",
+    "shop": "Edeka",
+    "image": "tomato3.png"
+  }
+]
