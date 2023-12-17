@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Goldene Ei Kreation",
+    "price": "1.6",
+    "shop": "Penny",
+    "image": "egg1.png"
+  },
+  {
+    "name": "Frische Ei Delight",
+    "price": "2.0",
+    "shop": "Aldi",
+    "image": "egg2.png"
+  },
+  {
+    "name": "Feine Ei Schätze",
+    "price": "2.5",
+    "shop": "Edeka",
+    "image": "egg3.png"
+  }
+]
